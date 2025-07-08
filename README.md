@@ -141,8 +141,5 @@ To run any project:
 ## 📬 Contact
 
 Feel free to connect or reach out for collaboration or questions!
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/ujjwalkhanna15) | [GitHub](https://github.com/)
 
----
-
-Let me know if you'd like help writing individual `README.md` files for each sub-project or want to add a `requirements.txt`, setup instructions, or badges (like Python version, build status, etc.).
